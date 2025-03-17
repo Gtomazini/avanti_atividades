@@ -1,5 +1,5 @@
 # Atividade 01
-por Gabriel Tomazini
+por Gabriel Tomazini Ferreira
 
 # 1. Explique, com suas palavras, o que é machine learning?
 Machine Learning em palavras simples na minha concepção é uma estrutura composta de processamento de dados, tratamento de erros, redes de comunicação (ex: redes neurais) e modelos matemáticos/estatísticos que permite ao algoritmo lidar com dados e implementar uma instrução de acordo com a entrada usando
@@ -52,3 +52,21 @@ FN = Falsos Negativos
 
 # 5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine learning?
 Eu considero interessante dentre tantas áreas que podem se beneficiar do uso de machine learning, o campo da saúde, agricultura e manufatura onde vejo o uso benéfico e oportuno diante do avanço da internet das coisas e visão computacional nessas áreas.
+Como exemplo temos a agricultura de precisão com imagens de satélite e sensores que utilizam ML para projeção do consumo de irrigação, na manufatura o uso de visão computacional permite um fluxo ineterrupto de controle de qualidade que pode identificar produtos defeituosos na linha de produção, e para
+saúde já pode ser encontrado o uso de machine learning em máquinas de ressonância e raio-X.
+
+
+# Bibliografia
+As respostas foram fundamentadas com o auxílio de uma leitura rápida vinda de artigos e documentações de aprendizagem:
+
+
+Conjuntos de dados: características dos dados
+https://developers.google.com/machine-learning/crash-course/overfitting/data-characteristics?hl=pt-br
+
+
+KNN (K-Nearest Neighbors) #1 Como funciona?
+https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e
+
+
+Entendendo o que é Matriz de Confusão com Python
+https://medium.com/data-hackers/entendendo-o-que-%C3%A9-matriz-de-confus%C3%A3o-com-python-114e683ec509
